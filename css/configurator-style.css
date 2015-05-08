@@ -1,0 +1,12 @@
+#configurator_form label
+{
+    width: 200px;
+    line-height: 28px;
+    float: left;
+}
+
+#configurator_form input[type="text"]
+{
+    height: 28px;
+    width: 600px;
+}
